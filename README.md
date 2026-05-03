@@ -1,4 +1,4 @@
-## 👋🏻 Hello, I'm Danish, a Front-End Developer with hands-on experience with React.js, Vue.js, Nuxt.js and Next.js. 
+## 👋🏻 Hello, I'm Danish, a Front-End Developer with hands-on experience with Nuxt.js, Next.js, React.js and Vue.js. 
 ### Let's connect to learn something from each other and possibly collaborate on some cool projects! 🌟
 <br/>
 
