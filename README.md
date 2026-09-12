@@ -50,23 +50,7 @@
       <p><i>Next.js · Three.js · Framer Motion · Tailwind CSS</i></p>
       <a href="https://immersive-threshold.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-1e293b?style=for-the-badge" /></a>
     </td>
-    <td width="50%">
-      <h4>🏡 Nest Seekers</h4>
-      <p>Sleek, single-page property exploration site optimized for speed.</p>
-      <p><i>Next.js · React · Tailwind CSS</i></p>
-      <a href="https://nest-seekers.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-1e293b?style=for-the-badge" /></a>
-      <img src="https://img.shields.io/badge/🔒_Private_Repo-64748b?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>🍕 Fast React Pizza Co.</h4>
-      <p>Online pizza ordering app with client-side routing and global state.</p>
-      <p><i>React · Redux · React Router · Vite</i></p>
-      <a href="https://fast-react-pizza-danish.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-1e293b?style=for-the-badge" /></a>
-      <img src="https://img.shields.io/badge/🟢_Open_Source-16a34a?style=flat-square" />
-    </td>
-    <td width="50%">
+     <td width="50%">
       <h4>🌤️ Weather App</h4>
       <p>Check the weekly forecast for anywhere in the world.</p>
       <p><i>React · HTML · CSS · JS</i></p>
