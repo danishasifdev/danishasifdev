@@ -27,35 +27,33 @@
 > Some of these are professional / client engagements under NDA, so the source isn't public — but every project below is live and fully explorable.
 
 <table>
-  <tr>
+ <tr>
     <td width="50%">
       <h4>🏠 Rehani Soko</h4>
-      <p>Africa's digital real estate & mortgage marketplace connecting diaspora buyers with verified properties.</p>
+      <p>Real estate and mortgage marketplace serving buyers across seven African markets, many of them living overseas.</p>
       <p><i>Nuxt · Vue · Tailwind CSS</i></p>
       <a href="https://www.rehanisoko.com/"><img src="https://img.shields.io/badge/🌐_Live_Demo-1e293b?style=for-the-badge" /></a>
       <img src="https://img.shields.io/badge/🔒_Private_Repo-64748b?style=flat-square" />
     </td>
     <td width="50%">
-      <h4>☀️ Solterra</h4>
-      <p>Custom solar installation company — get a real quote in under a week.</p>
+      <h4>🧾 Mall POS</h4>
+      <p>Point of sale terminal for small retail. Built for phone hardware and thermal receipt printers.</p>
       <p><i>Next.js · React · Tailwind CSS</i></p>
-      <a href="https://solarco-delta.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-1e293b?style=for-the-badge" /></a>
-      <img src="https://img.shields.io/badge/🔒_Private_Repo-64748b?style=flat-square" />
+      <a href="https://pos-app-seven-swart.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-1e293b?style=for-the-badge" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h4>🌀 Threshold — Immersive Reality</h4>
-      <p>Interactive 3D experience visualizing limits, boundaries, and triggers.</p>
+      <h4>🌀 Threshold: Immersive Reality</h4>
+      <p>Interactive 3D experience visualizing limits, boundaries and triggers.</p>
       <p><i>Next.js · Three.js · Framer Motion · Tailwind CSS</i></p>
       <a href="https://immersive-threshold.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-1e293b?style=for-the-badge" /></a>
     </td>
-     <td width="50%">
-      <h4>🌤️ Weather App</h4>
-      <p>Check the weekly forecast for anywhere in the world.</p>
-      <p><i>React · HTML · CSS · JS</i></p>
-      <a href="https://weather-app-project-flax.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-1e293b?style=for-the-badge" /></a>
-      <img src="https://img.shields.io/badge/🟢_Open_Source-16a34a?style=flat-square" />
+    <td width="50%">
+      <h4>🧰 Toolbox</h4>
+      <p>Utility hub that puts everyday developer tools behind one fast, distraction-free interface.</p>
+      <p><i>Next.js · React · Tailwind CSS</i></p>
+      <a href="https://toolbox-self-beta.vercel.app/en"><img src="https://img.shields.io/badge/🌐_Live_Demo-1e293b?style=for-the-badge" /></a>
     </td>
   </tr>
 </table>
