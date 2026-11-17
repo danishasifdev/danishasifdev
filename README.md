@@ -17,14 +17,14 @@
 
 ## About
 
-I build React and Vue frontends that stay fast on a bad phone connection. Since August 2024 I have been the frontend developer on Rehani Soko, a real estate and mortgage marketplace for buyers across 7 African markets. Most of those buyers are abroad and browsing on mobile, so performance and accessibility were never optional. I took the Lighthouse Performance score from 40 to 90+ and got SEO and Accessibility to 100.
+I am a frontend developer with 4 years of shipping production work in React, Next.js, Vue and Nuxt. I have worked on client and product projects, turned Figma files into responsive layouts, owned performance and accessibility, and worked closely with backend engineers. I care about the parts that decide whether a site actually works: SSR, SEO, Core Web Vitals and components other developers can reuse.
 
-I have also built the interfaces for a B2B AI agent platform, a chatbot, an image editor and a video generator, plus the React admin panel. Most of my work has been about handling loading, errors and output that is never quite predictable and refining the UI and UX for best experience.
+Over the years I have worked on a real estate and mortgage marketplace across 7 African markets, the frontend for a B2B AI agent platform (chatbot, image editor and video generator interfaces), and a range of client sites and MVPs at Infinity Devs, including an educational platform.
 
 ## What I am up to right now
 
-- Learning Python and FastAPI so I can build the APIs behind my own interfaces
-- Open to frontend roles on React, Next.js, Vue or Nuxt teams
+- Learning Python and FastAPI
+- Open to frontend roles on React, Next.js, Vue or Nuxt teams, and happy to pick up new tech along the way
 
 ## Stack
 
