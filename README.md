@@ -6,11 +6,12 @@
 
 <br />
 
-<img src="https://img.shields.io/badge/Lighthouse-90%2B_Performance-1e293b?style=for-the-badge" alt="Lighthouse 90+ Performance" />
+
+<img src="https://img.shields.io/badge/Lighthouse-90%2B_Performance-2563eb?style=for-the-badge" alt="Lighthouse 90+ Performance" />
 &nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Open_to_Work-22c55e?style=for-the-badge" alt="Open to Work" />
 &nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/SEO_%26_Accessibility-100-1e293b?style=for-the-badge" alt="SEO and Accessibility 100" />
+<img src="https://img.shields.io/badge/SEO_%26_Accessibility-100-2563eb?style=for-the-badge" alt="SEO and Accessibility 100" />
 
 </div>
 
@@ -78,7 +79,7 @@ I have also built the interfaces for a B2B AI agent platform, a chatbot, an imag
 
 ## Get in touch
 
-If you are hiring for a frontend role, linkedin is the fastest way to reach me.
+If you are hiring for a frontend role, LinkedIn is the fastest way to reach me.
 
 <p align="center">
 <a href="https://linkedin.com/in/danishasif"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
