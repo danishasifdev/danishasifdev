@@ -1,83 +1,91 @@
-<h1 align="center">Hey, I'm Danish 👋🏻</h1>
+<div align="center">
 
-<h3 align="center">Front-End Developer specializing in Nuxt.js, Next.js, React.js & Vue.js</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=170&section=header&text=Danish%20Asif&fontSize=44&fontColor=ffffff&fontAlignY=40&desc=Frontend%20Developer&descSize=18&descAlignY=62" alt="Danish Asif, Frontend Developer" width="100%" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🟢_Open_to_Remote_Work-22c55e?style=for-the-badge" alt="Open to Work Badge"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1400&color=3B82F6&center=true&vCenter=true&width=560&height=30&lines=React+and+Vue+that+load+fast;Lighthouse+40+to+90%2B+on+a+7-market+marketplace;AI+chat+and+generation+interfaces;Open+to+work" alt="Typing intro" />
 
-<p align="center">
-4+ years building fast, accessible, production-grade web apps. Currently leveling up into full-stack with <b>Python & FastAPI</b>. Let's connect and build something great together! 🌟
-</p>
+<br />
 
-<br/>
+<img src="https://img.shields.io/badge/Lighthouse-90%2B_Performance-1e293b?style=for-the-badge" alt="Lighthouse 90+ Performance" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Open_to_Work-22c55e?style=for-the-badge" alt="Open to Work" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/SEO_%26_Accessibility-100-1e293b?style=for-the-badge" alt="SEO and Accessibility 100" />
 
-### 🛠️ Skills
+</div>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,nuxtjs,react,next,ts,js,tailwindcss,html,css,redux,python,fastapi,git,github,vscode" />
-  </a>
-</p>
+## About
 
-<br/>
+I build React and Vue frontends that stay fast on a bad phone connection. Since August 2024 I have been the frontend developer on Rehani Soko, a real estate and mortgage marketplace for buyers across 7 African markets. Most of those buyers are abroad and browsing on mobile, so performance and accessibility were never optional. I took the Lighthouse Performance score from 40 to 90+ and got SEO and Accessibility to 100.
 
-### 🚀 Featured Work
+I have also built the interfaces for a B2B AI agent platform, a chatbot, an image editor and a video generator, plus the React admin panel. Most of my work has been about handling loading, errors and output that is never quite predictable and refining the UI and UX for best experience.
 
-> Some of these are professional / client engagements under NDA, so the source isn't public — but every project below is live and fully explorable.
+## What I am up to right now
+
+- Learning Python and FastAPI so I can build the APIs behind my own interfaces
+- Open to frontend roles on React, Next.js, Vue or Nuxt teams
+
+## Stack
+
+**Frontend**
+
+![React](https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,astro&perline=10)
+
+**Languages and styling**
+
+![Languages](https://skillicons.dev/icons?i=ts,js,html,css,tailwind&perline=10)
+
+**State, 3D and tooling**
+
+![Tooling](https://skillicons.dev/icons?i=redux,threejs,vite,figma,git,github,vercel,netlify&perline=10)
+
+**Learning**
+
+![Learning](https://skillicons.dev/icons?i=python,fastapi&perline=10)
+
+## Selected work
 
 <table>
- <tr>
-    <td width="50%">
-      <h4>🏠 Rehani Soko</h4>
-      <p>Real estate and mortgage marketplace serving buyers across seven African markets, many of them living overseas.</p>
-      <p><i>Nuxt · Vue · Tailwind CSS</i></p>
-      <a href="https://www.rehanisoko.com/"><img src="https://img.shields.io/badge/🌐_Live_Demo-1e293b?style=for-the-badge" /></a>
-      <img src="https://img.shields.io/badge/🔒_Private_Repo-64748b?style=flat-square" />
-    </td>
-    <td width="50%">
-      <h4>🧾 Mall POS</h4>
-      <p>Point of sale terminal for small retail. Built for phone hardware and thermal receipt printers.</p>
-      <p><i>Next.js · React · Tailwind CSS</i></p>
-      <a href="https://pos-app-seven-swart.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-1e293b?style=for-the-badge" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>🌀 Threshold: Immersive Reality</h4>
-      <p>Interactive 3D experience visualizing limits, boundaries and triggers.</p>
-      <p><i>Next.js · Three.js · Framer Motion · Tailwind CSS</i></p>
-      <a href="https://immersive-threshold.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-1e293b?style=for-the-badge" /></a>
-    </td>
-    <td width="50%">
-      <h4>🧰 Toolbox</h4>
-      <p>Utility hub that puts everyday developer tools behind one fast, distraction-free interface.</p>
-      <p><i>Next.js · React · Tailwind CSS</i></p>
-      <a href="https://toolbox-self-beta.vercel.app/en"><img src="https://img.shields.io/badge/🌐_Live_Demo-1e293b?style=for-the-badge" /></a>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+<h3>Rehani Soko</h3>
+<p>Real estate and mortgage marketplace for buyers across 7 African markets. Server-rendered listings with stable handles, mortgage estimates and inquiry forms. Lighthouse Performance 40 to 90+.</p>
+<p><sub>Nuxt · Vue · Tailwind CSS · Production</sub></p>
+<a href="https://www.rehanisoko.com">Live site</a>
+</td>
+<td width="50%" valign="top">
+<h3>Mall POS</h3>
+<p>Point of sale terminal for small retail. Runs on a phone and prints to 80mm thermal receipt printers.</p>
+<p><sub>Next.js · React · Tailwind CSS · Personal project</sub></p>
+<a href="https://pos-app-seven-swart.vercel.app">Live demo</a> · <a href="https://github.com/danishasifdev/pos-app">Source</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>Threshold</h3>
+<p>Interactive 3D scene about limits and boundaries, rendered with Three.js and animated with Framer Motion.</p>
+<p><sub>Next.js · Three.js · Framer Motion · Personal project</sub></p>
+<a href="https://immersive-threshold.vercel.app">Live demo</a> · <a href="https://github.com/danishasifdev/immersive-threshold">Source</a>
+</td>
+<td width="50%" valign="top">
+<h3>Toolbox</h3>
+<p>Everyday developer tools behind one fast, distraction-free interface. Designed and built solo.</p>
+<p><sub>Next.js · React · Tailwind CSS · Personal project</sub></p>
+<a href="https://toolbox-self-beta.vercel.app">Live demo</a>
+</td>
+</tr>
 </table>
 
-<p align="center">
-  <a href="https://danishasif.vercel.app/projects">
-    <img src="https://img.shields.io/badge/See_all_projects_→-1e293b?style=for-the-badge" />
-  </a>
-</p>
+## Get in touch
 
-<br/>
-
-### 🌐 Let's Connect
+If you are hiring for a frontend role, linkedin is the fastest way to reach me.
 
 <p align="center">
-  <a href="https://danishasif.vercel.app/projects" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/🚀_Portfolio-1e293b?style=for-the-badge" alt="Portfolio Badge"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/danishasif/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  &nbsp;
-  <a href="mailto:danishasifdev@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
+<a href="https://linkedin.com/in/danishasif"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:danishasifdev@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://danishasif.vercel.app"><img src="https://img.shields.io/badge/Portfolio-f97316?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=90&section=footer" width="100%" alt="overlay" />
